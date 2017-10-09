@@ -181,5 +181,7 @@ In [5]: dataset.close()
 ▶ conda install netcdf4
 ```
 
+Mais comandos interessantes [aqui](https://github.com/marcelorodriguesss/netcdfoperators)
+
 ![alt text](img/adventure_time__the_glasses_of_nerdicon_by_legaluslex-d5t5sve.png "Transparent!")
 
