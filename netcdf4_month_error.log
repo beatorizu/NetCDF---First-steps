@@ -1,0 +1,8 @@
+==>> GERA JSON SPEI e SPI <<==
+Traceback (most recent call last):
+File "/work/storage/compartilhados/python_scripts/json_creator/json_creator.py", line 81, in <module>
+for json_data, json_filename in cfg.create_dict(cfg_file, arguments['<path>'], **{'status': arguments['--status']}):
+File "/work/storage/compartilhados/python_scripts/json_creator/jsons.py", line 175, in create_dict
+dates = format_date(num2date(mapi.time, mapi.time_units), properties['dateo_format']).tolist()
+File "netCDF4/_netCDF4.pyx", line 5238, in netCDF4._netCDF4.num2date (netCDF4/_netCDF4.c:64701)
+ValueError: unsupported time units
