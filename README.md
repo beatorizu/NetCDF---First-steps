@@ -179,6 +179,7 @@ In [5]: dataset.close()
 ▶ conda create --name py360 python=3.6
 ▶ source activate py360
 ▶ conda install netcdf4
+▶ conda install ipython
 ```
 
 Mais comandos interessantes [aqui](https://github.com/marcelorodriguesss/netcdfoperators)
